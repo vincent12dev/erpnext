@@ -281,7 +281,7 @@
    "collapsible": 1,
    "fieldname": "erpnext_user",
    "fieldtype": "Section Break",
-   "label": "ERPNext User"
+   "label": "MainPro User"
   },
   {
    "description": "System User (login) ID. If set, it will become default for all HR forms.",
